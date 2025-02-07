@@ -1,0 +1,35 @@
+7zxa.dll             Biblioteca de descompressão 7z
+Default32.SFX        Módulo 32-bit GUI RAR SFX
+Default.SFX          Módulo 64-bit do GUI RAR SFX
+Descript.ion         Descrição dos arquivos
+License.txt          Licença para uso e distribuição
+Order.htm            Formulário de registro
+Rar.exe              Console RAR
+Rar.txt              Manual do console RAR
+RarLng.dll           Recursos de idioma
+RarExt.dll           Extensão de integração do WinRAR
+RarExt32.dll         Extensão para o contexto do WinRAR para Windows x86
+RarExt64.dll         Extensão para o contexto do WinRAR para Windows x64
+RarExtInstaller.exe  Ferramenta para instalar e desinstalar a extensão de contexto do WinRAR.
+RarExtLogo.altform-unplated_targetsize-32.png Arquivo gráfico para extensão de contexto do WinRAR
+RarExtLogo.altform-unplated_targetsize-48.png Arquivo gráfico para extensão de contexto do WinRAR
+RarExtLogo.altform-unplated_targetsize-64.png Arquivo gráfico para extensão de contexto do WinRAR
+RarExtLogo_Default.altform-unplated_targetsize-32.png Arquivo gráfico para extensão de contexto do WinRAR
+RarExtLogo_Default.altform-unplated_targetsize-48.png Arquivo gráfico para extensão de contexto do WinRAR
+RarExtLogo_Default.altform-unplated_targetsize-64.png Arquivo gráfico para extensão de contexto do WinRAR
+RarExtPackage.msix   Pacote suplementar para a extensão de contexto do WinRAR.
+RarFiles.lst         Ordem de classificação por arquivos sólidos
+RarNew.dat           Novo modelo de arquivo RAR
+ReadMe.txt           Breve visão geral do WinRAR
+Resources.pri        Arquivo gráfico para extensão de contexto do WinRAR
+Uninstall.exe        Programa de desinstalação
+Uninstall.lst        Lista de arquivos para desinstalação
+UnRAR.exe            Ferramenta gratuita para extrair arquivos RAR
+WhatsNew.txt         O que há de novo nesta versão
+WinCon32.SFX         Módulo 32-bit do console RAR SFX
+WinCon.SFX           Módulo 64-bit do console RAR SFX
+WinRAR.exe           WinRAR
+WinRAR.chm           Arquivo de ajuda do WinRAR
+Zip32.SFX            Módulo 32-bit GUI ZIP SFX
+Zip.SFX              Módulo 64-bit do GUI ZIP SFX
+ZipNew.dat           Novo modelo de arquivo ZIP
